@@ -1,0 +1,14 @@
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.EntityLayer\bin\Debug\net6.0\TeaShopApi.EntityLayer.deps.json
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.EntityLayer\bin\Debug\net6.0\TeaShopApi.EntityLayer.runtimeconfig.json
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.EntityLayer\bin\Debug\net6.0\TeaShopApi.EntityLayer.dll
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.EntityLayer\bin\Debug\net6.0\TeaShopApi.EntityLayer.pdb
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.EntityLayer\obj\Debug\net6.0\TeaShopApi.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.EntityLayer\obj\Debug\net6.0\TeaShopApi.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.EntityLayer\obj\Debug\net6.0\TeaShopApi.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.EntityLayer\obj\Debug\net6.0\TeaShopApi.EntityLayer.AssemblyInfo.cs
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.EntityLayer\obj\Debug\net6.0\TeaShopApi.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.EntityLayer\obj\Debug\net6.0\TeaShopApi.EntityLayer.dll
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.EntityLayer\obj\Debug\net6.0\refint\TeaShopApi.EntityLayer.dll
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.EntityLayer\obj\Debug\net6.0\TeaShopApi.EntityLayer.pdb
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.EntityLayer\obj\Debug\net6.0\TeaShopApi.EntityLayer.genruntimeconfig.cache
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.EntityLayer\obj\Debug\net6.0\ref\TeaShopApi.EntityLayer.dll

@@ -1,0 +1,17 @@
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.BusinessLayer\bin\Debug\net6.0\TeaShopApi.BusinessLayer.deps.json
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.BusinessLayer\bin\Debug\net6.0\TeaShopApi.BusinessLayer.dll
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.BusinessLayer\bin\Debug\net6.0\TeaShopApi.BusinessLayer.pdb
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.BusinessLayer\bin\Debug\net6.0\TeaShopApi.DataAccessLayer.dll
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.BusinessLayer\bin\Debug\net6.0\TeaShopApi.EntityLayer.dll
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.BusinessLayer\bin\Debug\net6.0\TeaShopApi.DataAccessLayer.pdb
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.BusinessLayer\bin\Debug\net6.0\TeaShopApi.EntityLayer.pdb
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.BusinessLayer\obj\Debug\net6.0\TeaShopApi.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.BusinessLayer\obj\Debug\net6.0\TeaShopApi.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.BusinessLayer\obj\Debug\net6.0\TeaShopApi.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.BusinessLayer\obj\Debug\net6.0\TeaShopApi.BusinessLayer.AssemblyInfo.cs
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.BusinessLayer\obj\Debug\net6.0\TeaShopApi.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.BusinessLayer\obj\Debug\net6.0\TeaShopApi.BusinessLayer.csproj.CopyComplete
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.BusinessLayer\obj\Debug\net6.0\TeaShopApi.BusinessLayer.dll
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.BusinessLayer\obj\Debug\net6.0\refint\TeaShopApi.BusinessLayer.dll
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.BusinessLayer\obj\Debug\net6.0\TeaShopApi.BusinessLayer.pdb
+C:\Users\taha8\Desktop\PROJELERİM\TeaShopApi\TeaShopApi.BusinessLayer\obj\Debug\net6.0\ref\TeaShopApi.BusinessLayer.dll

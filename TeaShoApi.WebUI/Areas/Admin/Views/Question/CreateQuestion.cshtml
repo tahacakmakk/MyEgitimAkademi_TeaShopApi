@@ -1,0 +1,21 @@
+﻿@model CreateQuestionDto
+@{
+    ViewData["Title"] = "CreateQuestion";
+    Layout = "~/Areas/Admin/Views/AdminLayout/Index.cshtml";
+}
+
+<h2> Yeni Soru Ekle</h2>
+<form method="post">
+    <div class="card p-5">
+
+        <label>Soru</label>
+        <input type="text" asp-for="QuestionDetail" class="form-control" />
+        <br />
+        <label>Cevap</label>
+        <input type="text" asp-for="AnswerDetail" class="form-control" />
+        <br />
+        <button class="btn btn-primary">Soru Ekle</button>
+    </div>
+
+</form>
+
